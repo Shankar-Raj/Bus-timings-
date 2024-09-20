@@ -88,24 +88,14 @@ The program recognizes the following key mappings:
 - `8`: t, u, v
 - `9`: w, x, y, z
 
-## Usage
+## Usage :
 
-1. Compile the program:
-   ```bash
-   javac KeypadWords.java
-   ```
-
-2. Run the program:
-   ```bash
-   java KeypadWords
-   ```
-
-3. Follow the prompts to enter a sequence of keypresses. For example:
+1. Follow the prompts to enter a sequence of keypresses. For example:
    ```
    2 22 3 33
    ```
 
-4. The program will output the corresponding letters based on your input.
+2. The program will output the corresponding letters based on your input.
 
 ## Example
 
