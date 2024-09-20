@@ -1,4 +1,4 @@
-# Bus Timings Console Application
+**Bus Timings Console Application**
 
 This is a simple Java console application that helps users manage and search for bus timings without requiring a map interface. The application offers two main functionalities:
 
@@ -6,9 +6,9 @@ This is a simple Java console application that helps users manage and search for
 
 2. **Search Bus Timings**
 
-## 1. Add/Update Interface
+**1. Add/Update Interface**
 
-### 1.1. Add Bus Details  
+**1.1. Add Bus Details**  
 
 Users can add new bus information by providing the following details:
 
@@ -16,7 +16,7 @@ Users can add new bus information by providing the following details:
 - **Bus Stop(s)**
 - **Bus Timing(s)**
 
-### 1.2. Update Bus Details  
+**1.2. Update Bus Details**  
 
 Users can update existing bus information in three different ways:
 -
@@ -29,17 +29,17 @@ Users can update existing bus information in three different ways:
 - **Update Timings**:
 - Adjust the timings for a specific bus route.
 
-## 2. Search Interface
+**2. Search Interface**
 
-### 2.1. Search by Bus Number  
+**2.1. Search by Bus Number**  
 
 Allows users to search for the timings of a particular bus by entering the bus number.
 
-### 2.2. Search by Place  
+**2.2. Search by Place**  
 
 Users can search for bus timings by specifying the starting and ending locations. The system will display the bus options and their timings for the route between the two locations.
 
-## Key Features & Benefits
+**Key Features & Benefits**
 
 1. **No Map Interface Required**
 
@@ -86,6 +86,6 @@ Users can search for bus timings by specifying the starting and ending locations
 
 ------------------------------------
 
-## The KeypadWords
+**The KeypadWords**
 
 The KeypadWords project simulates how a classic mobile phone keypad converts numeric input into corresponding letters.
