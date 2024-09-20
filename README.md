@@ -64,3 +64,50 @@ Users can search for bus timings by specifying the starting and ending locations
    ```
 
 -------------------------------------------------------------------------------------------
+# KeypadWords
+
+This Java program converts sequences of keypresses on a traditional mobile keypad into corresponding letters. It interprets the number of times a key is pressed to determine the correct letter.
+
+## Features
+
+- Converts numeric key sequences into words using a traditional mobile keypad layout.
+- Handles key inputs including spaces and keys without corresponding letters.
+
+## Keypad Layout
+
+The program recognizes the following key mappings:
+
+- `0`: Space
+- `1`: No letters
+- `2`: a, b, c
+- `3`: d, e, f
+- `4`: g, h, i
+- `5`: j, k, l
+- `6`: m, n, o
+- `7`: p, q, r, s
+- `8`: t, u, v
+- `9`: w, x, y, z
+
+## Usage
+
+1. Compile the program:
+   ```bash
+   javac KeypadWords.java
+   ```
+
+2. Run the program:
+   ```bash
+   java KeypadWords
+   ```
+
+3. Follow the prompts to enter a sequence of keypresses. For example:
+   ```
+   2 22 3 33
+   ```
+
+4. The program will output the corresponding letters based on your input.
+
+## Example
+
+Input: `2 22 3 33`  
+Output: `abcde`
