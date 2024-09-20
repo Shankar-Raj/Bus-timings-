@@ -33,7 +33,7 @@ Users can search for bus timings by specifying the starting and ending locations
    The project functions entirely through a console-based interface, making it simple and easy to use without requiring a map.
 
 2. **Easy Bus Details Management**  
-   When adding new bus information, users don't need to manually enter the exact timing for each stop. The application automatically generates a timetable based on bus stops and timings.just do Stops : A,B,C and Timings: 1,2,3,4,5,6,7,8,9. For example:
+   When adding new bus information, users don't need to manually enter the exact timing for each stop. The application automatically generates a timetable based on bus stops and timings. Just by giving like Stops : A,B,C and Timings: 1,2,3,4,5,6,7,8,9. For example:
    ```
    Stops: A  B  C
    Timings:
